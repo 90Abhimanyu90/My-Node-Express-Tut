@@ -19,3 +19,6 @@ const lod = require('lodash')
 const items = [1,[2,[3,[4,[5]]]]]
 const newItems = lod.flattenDeep(items)
 console.log(newItems);
+
+
+//  if you have package json and dependencies are mentioned in the package then you only need to bash npm i and all the dependencies will be installed get it now?
