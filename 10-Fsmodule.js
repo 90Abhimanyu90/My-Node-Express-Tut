@@ -19,3 +19,4 @@ const text2 = fs.readFileSync('./content/subcontent/test2.txt', 'utf-8')
 const text3 = fs.readFileSync('./content/subcontent/test3.txt', 'utf-8')
 
 fs.writeFileSync('./content/subcontent/test4.txt', ` The content is :  ${text2}, ${text3}`)
+// settimeout is Asynchronous that means even if you put timer at 0 it will still come at last

@@ -9,7 +9,7 @@
 // sudo install -g <packageName> (mac)
 
 // package .json - manifest files (stores important info about project/package)
-// manual approach (create package.json in the root, cerate propertiers etc)
+// manual approach (create package.json in the root, create propertiers etc)
 // npm init (step by step, press enter to skip)
 // npm init -y (everything default)
 

@@ -12,7 +12,7 @@ console.log('My first Node Page');
 
 // aur kuch bhi lagaoge to wo bhi hone lagega npm Start ki value set hai node 1-intro pe check zarur krna
 
-// npm start se run ho jaega but kabhi kabhi kisi commmand mein poora dena padta hai npm run nameOfCommand to usme dena padega 
+// npm start se run ho jaega but kabhi kabhi kisi commmand mein poora dena padta hai npm run nameOfCommand to usme dena padega (sirf start ke lie run likhne kizarurat nahi hai baki mein run likhna padta hai)
 
 // to iske liye scripts mein dev daal dete hai (dev ki jagah kuch aur bhi daal skte hai fir npm run dev ya npm run joBhiNam enter kroge)
 

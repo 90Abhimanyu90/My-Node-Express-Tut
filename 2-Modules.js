@@ -7,4 +7,4 @@ const greet = (name)=>{
 }
 
 greet('Divas');
-greet(john);
+greet(john);// cause its a variable so no need for ""
