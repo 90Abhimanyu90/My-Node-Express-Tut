@@ -1,1 +1,0 @@
-// asli maal to yai se shuru hoga
